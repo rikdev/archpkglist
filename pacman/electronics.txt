@@ -1,0 +1,5 @@
+gnuradio
+gnuradio-companion
+gnuradio-osmosdr
+gqrx
+pulseview

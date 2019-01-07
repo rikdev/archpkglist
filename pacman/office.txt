@@ -1,0 +1,4 @@
+evince
+hunspell-en_US
+hyphen-en
+libreoffice-fresh

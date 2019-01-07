@@ -1,0 +1,4 @@
+jre-openjdk
+wine
+wine-mono
+wine_gecko

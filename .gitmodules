@@ -1,0 +1,109 @@
+[submodule "aur/chirp-daily"]
+	path = aur/chirp-daily
+	url = https://aur.archlinux.org/chirp-daily.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/dsview"]
+	path = aur/dsview
+	url = https://aur.archlinux.org/dsview.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/saleae-logic"]
+	path = aur/saleae-logic
+	url = https://aur.archlinux.org/saleae-logic.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/yandex-disk"]
+	path = aur/yandex-disk
+	url = https://aur.archlinux.org/yandex-disk.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/skypeforlinux-stable-bin"]
+	path = aur/skypeforlinux-stable-bin
+	url = https://aur.archlinux.org/skypeforlinux-stable-bin.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/hunspell-ru"]
+	path = aur/hunspell-ru
+	url = https://aur.archlinux.org/hunspell-ru.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/hyphen-ru"]
+	path = aur/hyphen-ru
+	url = https://aur.archlinux.org/hyphen-ru.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/libc++"]
+	path = aur/libc++
+	url = https://aur.archlinux.org/libc++.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/eagle"]
+	path = aur/eagle
+	url = aur://eagle.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/visual-studio-code-bin"]
+	path = aur/visual-studio-code-bin
+	url = https://aur.archlinux.org/visual-studio-code-bin.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/zoom"]
+	path = aur/zoom
+	url = aur://zoom
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/keepass-plugin-rpc"]
+	path = aur/keepass-plugin-rpc
+	url = https://aur.archlinux.org/keepass-plugin-rpc.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/slack-desktop"]
+	path = aur/slack-desktop
+	url = https://aur.archlinux.org/slack-desktop.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+	ignore = untracked
+[submodule "aur/links-g-directfb"]
+	path = aur/links-g-directfb
+	url = https://aur.archlinux.org/links-g-directfb.git
+[submodule "aur/chromecast-wallpapers"]
+	path = aur/chromecast-wallpapers
+	url = https://aur.archlinux.org/chromecast-wallpapers.git
+[submodule "aur/zygrib"]
+	path = aur/zygrib
+	url = https://aur.archlinux.org/zygrib.git
+[submodule "aur/pulseaudio-modules-bt-git"]
+	path = aur/pulseaudio-modules-bt-git
+	url = https://aur.archlinux.org/pulseaudio-modules-bt-git.git
+[submodule "aur/libldac"]
+	path = aur/libldac
+	url = https://aur.archlinux.org/libldac.git
+[submodule "aur/teams"]
+	path = aur/teams
+	url = https://aur.archlinux.org/teams.git

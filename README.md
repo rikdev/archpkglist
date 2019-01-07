@@ -35,5 +35,5 @@ git submodule update --remote --recursive
 after rebuild and update outdated packages:
 
 ```sh
-git submodule foreach 'makepkg --syncdeps --install --needed --clean'
+git submodule foreach 'git clean -ffdx && makepkg --syncdeps --install --needed --clean'
 ```

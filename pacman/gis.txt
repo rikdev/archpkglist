@@ -1,0 +1,3 @@
+gpsbabel
+gpsd
+qgis
