@@ -1,0 +1,24 @@
+[submodule "aur/chirp-daily"]
+	path = aur/chirp-daily
+	url = https://aur.archlinux.org/chirp-daily.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+[submodule "aur/dsview"]
+	path = aur/dsview
+	url = https://aur.archlinux.org/dsview.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+[submodule "aur/saleae-logic"]
+	path = aur/saleae-logic
+	url = https://aur.archlinux.org/saleae-logic.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+[submodule "aur/dropbox"]
+	path = aur/dropbox
+	url = https://aur.archlinux.org/dropbox.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
