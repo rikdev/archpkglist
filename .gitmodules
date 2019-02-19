@@ -22,3 +22,27 @@
 	branch = master
 	update = rebase
 	fetchRecurseSubmodules = true
+[submodule "aur/yandex-disk"]
+	path = aur/yandex-disk
+	url = https://aur.archlinux.org/yandex-disk.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+[submodule "aur/skypeforlinux-stable-bin"]
+	path = aur/skypeforlinux-stable-bin
+	url = https://aur.archlinux.org/skypeforlinux-stable-bin.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+[submodule "aur/hunspell-ru"]
+	path = aur/hunspell-ru
+	url = https://aur.archlinux.org/hunspell-ru.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true
+[submodule "aur/hyphen-ru"]
+	path = aur/hyphen-ru
+	url = https://aur.archlinux.org/hyphen-ru.git
+	branch = master
+	update = rebase
+	fetchRecurseSubmodules = true

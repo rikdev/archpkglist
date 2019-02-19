@@ -1,13 +1,19 @@
 etckeeper
+lshw
 mc
 openssh
 pulseeffects
 pulsemixer
 seahorse
+unrar
 
 ffmpeg
 firefox
 gimp
+gqrx
+hyphen-en
+jre-openjdk
+libreoffice-fresh
 keepass
 qbittorrent
 steam
@@ -19,8 +25,15 @@ wine-mono
 
 code
 cmake
+cscope
+docker
 gcc
 ghc
+gnuradio
+gnuradio-companion
+gnuradio-osmosdr
 pulseview
 python
 shellcheck
+subversion
+wireshark-qt
